@@ -1,22 +1,22 @@
 ##1
 
-# foydalanuvchilar = ['sarvar', 'ali', 'anvar', 'samir', 'hadicha']
-# s = input("Salom yangi login tanlang😊:")
-# if s in foydalanuvchilar:
-#     print("kechirasiz login band")
-# else:
-#     print("Salom hush kelibsiz🤗")
-#
+foydalanuvchilar = ['sarvar', 'ali', 'anvar', 'samir', 'hadicha']
+s = input("Salom yangi login tanlang😊:")
+if s in foydalanuvchilar:
+    print("kechirasiz login band")
+else:
+    print("Salom hush kelibsiz🤗")
+
 
 #3
 # #
-# k = int(input("juft son kiriting!:"))
-# if k  % 2==0:
-#     print('Raxmat!')
-#
-# else:
-#     print("Bu juft son emas🤦‍♂️")
-#
+k = int(input("juft son kiriting!:"))
+if k  % 2==0:
+    print('Raxmat!')
+
+else:
+    print("Bu juft son emas🤦‍♂️")
+
 
 
 
